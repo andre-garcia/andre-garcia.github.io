@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on André Garcia</title>
-    <link>http://andre-garcia.github.io/post/</link>
+    <link>/post/</link>
     <description>Recent content in Projects on André Garcia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://andre-garcia.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Analyzing Brain Scan Images for the Early Detection and Diagnosis of Alzheimer&#39;s Disease</title>
-      <link>http://andre-garcia.github.io/post/alzheimer/</link>
+      <link>/post/alzheimer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://andre-garcia.github.io/post/alzheimer/</guid>
+      <guid>/post/alzheimer/</guid>
       <description>Project developed with Omdena focused on studying and exploring the possibility of using deep learning methods to detect Alzheimer&amp;rsquo;s disease. I was the task lead for Deployment, where I led the development and deployment of a front-end and a back-end system for our prototype model to be served to users, as well as creating video tutorials to support the team in their participation in the process.&#xA;A detailed blog post about the project written by another member of the team can be found here.</description>
     </item>
     <item>
       <title>Improving retrieval relevance in Retrieval-Augmented Generation</title>
-      <link>http://andre-garcia.github.io/post/lactapp/</link>
+      <link>/post/lactapp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://andre-garcia.github.io/post/lactapp/</guid>
+      <guid>/post/lactapp/</guid>
       <description>LactApp is a mobile app offering breastfeeding information and support. One of its features is a channel where users can ask questions to a team of certified breastfeeding experts. Due to the high volume of user questions, the company started experimenting with an internal RAG system that uses past dialogs between users and experts to help a LLM generate suggested answers for the user questions, which are later reviewed by the experts who decide whether (or how) to use the suggested answer.</description>
     </item>
     <item>
       <title>SmartGuide: Empowering Canada&#39;s Immigration Applicants with Accurate AI Chatbot Assistance</title>
-      <link>http://andre-garcia.github.io/post/smartguide/</link>
+      <link>/post/smartguide/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://andre-garcia.github.io/post/smartguide/</guid>
+      <guid>/post/smartguide/</guid>
       <description>I was part of a team lead by the Toronto Chapter of Omdena which developed a prototype chatbot to help immigration applicants get trustworthy information about the immigration process, thus avoiding being scammed by pseudo-agents.&#xA;Screen capture from the final presentation of the project I led task #0 (&amp;ldquo;knowledge&amp;rdquo;) and focused on project management and organizational issues, while also contributing to other tasks, performing activities such as data collection via web-scraping, and video tutorial creation to support team participation.</description>
     </item>
     <item>
       <title>Urbanization trends: recent past and future. A data visualization story.</title>
-      <link>http://andre-garcia.github.io/post/dataviz/</link>
+      <link>/post/dataviz/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://andre-garcia.github.io/post/dataviz/</guid>
+      <guid>/post/dataviz/</guid>
       <description>Interactive data visualization project exploring historical urbanization data from the United Nations&amp;rsquo; Department of Economic and Social Affairs.&#xA;It can be accessed here.</description>
     </item>
   </channel>
